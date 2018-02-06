@@ -19,3 +19,7 @@ def myinsert(n, L):
 L= list(range(10))
 print(L)
 print(myinsert(8.1 ,L))
+
+pass
+pass
+pass
